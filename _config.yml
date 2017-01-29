@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 site.static_files: 
   - file.path: /upNuPkg/packages/src.1.0.0.nupkg
+  - file.path: /upNuPkg/packages/src.1.0.0.symbols.nupkg
